@@ -37,6 +37,10 @@ pytest
 ## Evaluation (fill this in!)
 Tested on __ dummy resumes: skill extraction accuracy ≈ __%. Top-ranked resume matched my manual ranking in __ of __ cases.
 
+## Screenshots
+<img width="1920" height="859" alt="Screenshot (1439)" src="https://github.com/user-attachments/assets/1b1cf66c-ade9-49f0-94dd-9c94318daefe" />
+<img width="1920" height="864" alt="Screenshot (1441)" src="https://github.com/user-attachments/assets/b7642ed1-cd56-4ed9-b191-5a63cd01b0bf" />
+
 ## Limitations
 - Scanned/image PDFs need OCR (not included)
 - The embedding model reads only the first ~256 tokens, so the score is a rough signal; the LLM analysis is more detailed
