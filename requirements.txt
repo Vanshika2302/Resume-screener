@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+pydantic
+anthropic
+sentence-transformers
+streamlit
+requests
+pandas
+pytest
+python-dotenv
+google-genai
